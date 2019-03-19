@@ -31,3 +31,10 @@
 
 en:
   hello: "Hello world"
+  status_messages:
+    access_denied: 'Access denied'
+    unathorized: 'Not authorized'
+  error_messages:
+    inactive_announcement: 'can’t leave responses on a closed or canceled announcement.'
+    declined_response: 'you have declined response by author of announcement'
+    pending_response: 'you have pending responses'
